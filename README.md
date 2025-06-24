@@ -35,7 +35,7 @@ uvicorn main:app --reload
 ```
 ## Cambios en la configuración del sistema
 
-Para cambiar los parámetros de ejecución, se debe consultar el archivo ``appsettings.ini``, donde se encuentran todos los campos configurables del proyect
+Para cambiar los parámetros de ejecución, se debe consultar el archivo ``appsettings.ini``, donde se encuentran todos los campos configurables del proyecto
 
 
 ## Uso del proyecto
