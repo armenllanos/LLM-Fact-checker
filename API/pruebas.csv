@@ -1,0 +1,4 @@
+time;min_news_score;min_prop;min_claim_score;min_cos_dist;true_postive;false_positive;true_negative;false_negative;accuracy;not_verified
+24772.026345014572;0.1;0.1;0.1;10.0;0;0;13;11;0.5416666666666666;76
+25116.99507164955;0.1;0.1;0.2;10.0;0;0;13;11;0.5416666666666666;76
+24084.758269548416;0.1;0.1;0.3;10.0;0;0;13;11;0.5416666666666666;76
